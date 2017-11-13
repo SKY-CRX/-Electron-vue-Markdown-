@@ -7,9 +7,6 @@
 
 ``` bash
 
-# 下载源码
-git clone git@github.com:isNeilLin/M-note.git
-
 # 切换到项目跟路径
 cd m-note
 
